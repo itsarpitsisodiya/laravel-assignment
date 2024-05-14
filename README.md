@@ -4,7 +4,7 @@
 
 root env file should have working database connection variables.
 
-## Clone Setup
+## Post git clone Setup
 
 ```bash
   composer install
