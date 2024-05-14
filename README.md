@@ -7,9 +7,21 @@ root env file should have working database connection variables.
 ## Commands
 
 ```bash
-  php artisan migrate
+  php artisan migrate --path=/database/migrations/2024_05_14_111840_create_subjects_table.php
 ```
 Will give you the table where subjects are being stored.
+
+## Commands
+
+```bash
+  /screening
+```
+will give you the form
+
+```bash
+  /screenings
+```
+will list the subjects from database table
 
 ## files
 
