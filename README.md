@@ -4,6 +4,15 @@
 
 root env file should have working database connection variables.
 
+## Clone Setup
+
+```bash
+  composer install
+```
+```bash
+  php artisan key:generate
+```
+
 ## Commands
 
 ```bash
