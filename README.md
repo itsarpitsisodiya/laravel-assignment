@@ -11,7 +11,7 @@ root env file should have working database connection variables.
 ```
 Will give you the table where subjects are being stored.
 
-## Commands
+## Routes
 
 ```bash
   /screening
